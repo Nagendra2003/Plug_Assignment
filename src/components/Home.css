@@ -1,0 +1,91 @@
+.Navbar{
+    height:7vw;
+    width: 100%;
+    position: fixed !important;
+    left:0px;
+    top:0px;
+    z-index:1;
+}
+.rightNav{
+    width:350px;
+    margin-right: 3%;
+}
+.button{
+    width:100%;
+    background-color:rgb(33, 37, 41) !important ;
+}
+#brand_img{
+    height:5vw;
+}
+#card_img{
+    width:15vw;
+}
+#img{
+    height: 15vw;
+}
+#img:hover{
+    opacity:0.5;
+    color: rgba(0,0,0,0.8);
+    cursor:pointer;
+}
+.offcanvas{
+    margin-top: 7%;
+}
+.offcanvas-body{
+    background-color: rgb(33, 37, 41);
+}
+.image-upload>input {
+    display: none;
+}
+
+.div_name{
+    margin-top: 2vw;
+}
+.h6_name{
+    color: white;
+}
+.text_name{
+    width: 1vw;
+}
+.button_name{
+    background-color: rgba(0,0,0,0) !important;
+    border: 0px !important;
+    color: white;
+    margin-top: 1.2vw;
+    padding: 0px !important;
+}
+.div_status{
+    margin-top: 1vw;
+}
+
+.body{
+    margin-top: 8vw;
+    margin-left: 5%;
+    margin-right: 5%;
+    z-index:2;
+}
+.logout_button{
+    margin-top: 1vw;
+}
+
+.pagination{
+    width: 80%;
+    margin-top: 0.8vw;
+    margin-left: 10%;
+    margin-right: 10%;
+    align-items: center;
+}
+
+.page{
+    margin: auto auto auto auto;
+}
+.h3_nav{
+    color: white;
+    margin: auto auto auto auto;
+}
+
+.login_buttons{
+    margin-top: 13%;
+    margin-left: 35%;
+    width: fit-content;
+}
